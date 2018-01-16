@@ -1,7 +1,7 @@
-###### Curso Git desde cero
+### Curso Git desde cero
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
-###gZonas de Git
+### Zonas de Git
 1. Directorio de trabajo
 2. Área de preparación
 3. Directorio Git
@@ -11,19 +11,19 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 2. Preparas los archivos, añadiéndolos a tu área de preparación.
 3. Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación y almacena esa copia instantánea de manera permanente en tu directorio de Git.
 
-###Configurando Git por primera vez
+### Configurando Git por primera vez
 
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 git config --global core.editor nano
 git config --list
 
-###Solicitar ayuda en Git
+### Solicitar ayuda en Git
 
 git help "comando"
 git "comando" --help
 
-###Comando de Git 
+### Comando de Git 
 
 * git init - crear el repositorio en la carpeta de trabajo
 
