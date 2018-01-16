@@ -87,7 +87,7 @@ git "comando" --help
 
 *git show [hast] - Muestra los cambios del commit especificado.
 
-#######Comando de la terminal en window
+### Comando de la terminal en window
 
 cls -limpiar pantalla 
 dir - listar directorio
