@@ -118,7 +118,7 @@ git "comando" --help
 
 
 
-#######Comando de la terminal en window
+### Comando de la terminal en window
 
 cls -limpiar pantalla 
 dir - listar directorio
