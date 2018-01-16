@@ -116,8 +116,9 @@ git "comando" --help
 
 ### Comando de la terminal en window
 
-cls -limpiar pantalla 
-dir - listar directorio
-cd - Entrar al directorio 
-findstr - buscar por cadena de texto especificando la busqueda 
+* cls -limpiar pantalla 
+* dir - listar directorio
+* cd - Entrar al directorio 
+* findstr - buscar por cadena de texto especificando la busqueda
+* md [nombre] - Este comando crea un directorio nuevo. 
 
