@@ -97,7 +97,7 @@ git "comando" --help
 
 * git branch [nombre] - Con esta sentencia se crean las ramas en git 
 
-git branch --all - Con estas bandera te permite ver las ramas ocultas de los repositorios en la nueve
+* git branch --all - Con estas bandera te permite ver las ramas ocultas de los repositorios en la nueve
 
 * git branch -d [nombre de la rama] - Este comando sirve para eliminar la rama. Solo funcionaria si esa rama esta fusionada con otra rama de lo contrario no funcionara
 
