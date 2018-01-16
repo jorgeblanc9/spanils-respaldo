@@ -120,5 +120,5 @@ git "comando" --help
 * dir - listar directorio
 * cd - Entrar al directorio 
 * findstr - buscar por cadena de texto especificando la busqueda
-* md [nombre] - Este comando crea un directorio nuevo. 
+* md [nombre] - Este comando crea un directorio nuevo.. 
 
