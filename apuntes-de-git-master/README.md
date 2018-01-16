@@ -113,6 +113,9 @@ git "comando" --help
 
 * git push -u origin master - sube todo tu repositorio en local a el repositorio remoto.
 
+* git festch origin [nombre de la rama] - Este comando serve para traernos los cambios hechos por otros o por nosotros mismo desde un repositorio remoto.
+
+
 ##Pasos para aportar a otro repositorio.
 
 1. Hacer un fork en github.
